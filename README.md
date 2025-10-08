@@ -84,9 +84,6 @@ _Apr 2023 – Present | Hyderabad, India_
 
 > _Note: My professional work primarily resides in **Bitbucket & private repositories**, hence my public commit graph doesn’t reflect the full scope of my contributions._
 
-![Sumanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumanthbabu-msb&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumanthbabu-msb&layout=compact&theme=radical)
-
 ---
 
 ⭐ *“Commit counts don’t define creativity — understanding and impact do.”*

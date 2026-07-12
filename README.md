@@ -75,7 +75,7 @@ _Apr 2023 – Present | Hyderabad, India_
 
 ### 🧩 Certifications  
 
-- ☁️ **Google Cloud Professional Architect** (Valid till Oct 2025)  
+- ☁️ **Google Cloud Professional Architect**
 - 🧠 **GCP Associate Cloud Engineer**  
 
 ---
